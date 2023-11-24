@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanjit Roy</h1>
 <img align='right' src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 
-<h3 align="center">Well-Qualified Full Stack Developer Familiar With A Wide Range Of Programming Utilities And Languages And Knowledgeable Of Backend And Frontend Development Requirements With Expertise In Implementing Data Science And SEO</h3>
+<h3 align="">Well-Qualified Full Stack Developer Familiar With A Wide Range Of Programming Utilities And Languages And Knowledgeable Of Backend And Frontend Development Requirements With Expertise In Implementing Data Science And SEO</h3>
 
 
 - 🌱 I’m Currently Learning **AI Digital Marketing Web Development App Development** 
